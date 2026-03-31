@@ -1,24 +1,207 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>- Academic programming projects  <br>- Building small applications to strengthen my development skills  <br><br>👯 I’m looking to collaborate on  <br>- Open-source projects  <br>- Beginner-friendly development projects  <br><br>🤝 I’m looking for help with  <br>- Advanced programming concepts  <br>- Improving software development best practices  <br><br>🌱 I’m currently learning  <br>- Data structures and algorithms  <br>- Software development fundamentals  <br>- Version control using Git and GitHub  <br><br>💬 Ask me about  <br>- Programming fundamentals  <br>- Git and GitHub workflow  <br>- Student development projects  <br><br>⚡ Fun fact  <br>- I enjoy solving programming problems and continuously learning new technologies.
+<!-- MATRIX CYBERPUNK BANNER -->
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=260&section=header&text=CYBER%20SECURITY%20TERMINAL&fontSize=45&fontColor=00ffcc&animation=fadeIn"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nxni.82) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Veeranjaneya Reddy Pinnelli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veeranjaneyap28@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&color=00FFCC&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Data+Analyst;Financial+Modeling+Enthusiast;Cyber+Threat+Analyst;Secure+Systems+Builder">
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Veeranjaneya45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Veeranjaneya45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeranjaneya45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">👾 Veeranjaneya Reddy Pinnelli</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Veeranjaneya45&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Veeranjaneya45&label=PROFILE+VIEWS&color=00ffcc&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Veeranjaneya45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🖥 CYBER TERMINAL
+
+```yaml
+NAME        : Veeranjaneya Reddy Pinnelli
+ROLE        : Cybersecurity Engineer
+SPECIALTY   : Data Analytics • Financial Modeling
+EDUCATION   : B.Tech CSE (Cyber Security)
+UNIVERSITY  : SRM Institute of Science and Technology
+CAMPUS      : Kattankulathur
+GITHUB      : Veeranjaneya45
+STATUS      : ONLINE
+MISSION     : BUILD • ANALYZE • SECURE
+ACCESS LVL  : ROOT
+```
+
+---
+
+# 👾 CYBER SKILL RADAR
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Veeranjaneya45&theme=tokyonight"/>
+</p>
+
+---
+
+# 💻 PROGRAMMING LANGUAGES
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,sql,bash,r"/>
+</p>
+
+| Language   | Domain                                 |
+| ---------- | -------------------------------------- |
+| Python     | Cybersecurity automation, data science |
+| C++        | Systems programming                    |
+| Java       | Backend systems                        |
+| JavaScript | Web development                        |
+| SQL        | Data analytics                         |
+| Bash       | Linux scripting                        |
+| R          | Statistical computing                  |
+
+---
+
+# 🔐 CYBERSECURITY STACK
+
+| Domain                 | Tools                   |
+| ---------------------- | ----------------------- |
+| Network Security       | Wireshark • Nmap        |
+| Penetration Testing    | Metasploit • Burp Suite |
+| Vulnerability Scanning | OWASP ZAP               |
+| Threat Monitoring      | Splunk                  |
+| OS                     | Kali Linux              |
+
+Capabilities
+
+🛡 Network Security
+💣 Penetration Testing
+🔎 Vulnerability Assessment
+🌐 Web Security Testing
+🚨 Incident Response
+
+---
+
+# 📊 DATA SCIENCE & ANALYTICS
+
+Tools
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+
+Skills
+
+📈 Data Analysis
+📊 Statistical Modeling
+📉 Data Visualization
+📑 Exploratory Data Analysis
+
+---
+
+# 💰 FINANCIAL MODELING
+
+| Area               | Skills                    |
+| ------------------ | ------------------------- |
+| Financial Analysis | Market trend evaluation   |
+| Portfolio Modeling | Investment simulations    |
+| Risk Modeling      | Financial risk prediction |
+| Forecasting        | Predictive market models  |
+
+---
+
+# 👾 NEON CYBER DIVIDER
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</p>
+
+---
+
+# 🚀 PROJECT LAB
+
+| Project                          | Description                        |
+| -------------------------------- | ---------------------------------- |
+| 🔐 Network Vulnerability Scanner | Python-based network security tool |
+| 🛡 Web Security Analyzer         | Detects OWASP vulnerabilities      |
+| 📊 Data Analytics Dashboard      | Visual data analysis platform      |
+| 📈 Financial Forecast Engine     | Predicts financial trends          |
+
+---
+
+# 📊 GITHUB CYBER ANALYTICS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Veeranjaneya45&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeranjaneya45&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 DEVELOPMENT STREAK
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Veeranjaneya45&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🛰 ACTIVITY TRACKER
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Veeranjaneya45&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧊 3D CONTRIBUTION CUBE
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Veeranjaneya45&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://github.com/Veeranjaneya45/Veeranjaneya45/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 CONNECT
+
+📧 Email
+[veeranjaneyap28@gmail.com](mailto:veeranjaneyap28@gmail.com)
+
+💼 LinkedIn
+https://www.linkedin.com/in/pinnelli-veeranjaneya-reddy-75973937b
+
+🐙 GitHub
+https://github.com/Veeranjaneya45
+
+---
+
+# 💻 HACKER TERMINAL
+
+```bash
+> boot cyber_os
+
+[ SECURITY CORE : ACTIVE ]
+[ NETWORK MONITOR : ENABLED ]
+[ DATA ANALYTICS : RUNNING ]
+
+user@cybernode:~$ mission
+
+BUILD • ANALYZE • SECURE
+```
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=120&section=footer"/>
+</p>
